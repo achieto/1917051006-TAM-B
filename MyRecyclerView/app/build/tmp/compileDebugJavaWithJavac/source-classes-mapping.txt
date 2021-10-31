@@ -1,0 +1,31 @@
+com/praktikumtam/myrecyclerview/President.java
+ com.praktikumtam.myrecyclerview.President
+com/praktikumtam/myrecyclerview/ItemClickSupport.java
+ com.praktikumtam.myrecyclerview.ItemClickSupport
+ com.praktikumtam.myrecyclerview.ItemClickSupport$1
+ com.praktikumtam.myrecyclerview.ItemClickSupport$2
+ com.praktikumtam.myrecyclerview.ItemClickSupport$3
+ com.praktikumtam.myrecyclerview.ItemClickSupport$OnItemClickListener
+ com.praktikumtam.myrecyclerview.ItemClickSupport$OnItemLongClickListener
+com/praktikumtam/myrecyclerview/GridPresidentAdapter.java
+ com.praktikumtam.myrecyclerview.GridPresidentAdapter
+ com.praktikumtam.myrecyclerview.GridPresidentAdapter$GridViewHolder
+com/praktikumtam/myrecyclerview/BuildConfig.java
+ com.praktikumtam.myrecyclerview.BuildConfig
+com/praktikumtam/myrecyclerview/CardViewPresidentAdapter.java
+ com.praktikumtam.myrecyclerview.CardViewPresidentAdapter
+ com.praktikumtam.myrecyclerview.CardViewPresidentAdapter$1
+ com.praktikumtam.myrecyclerview.CardViewPresidentAdapter$2
+ com.praktikumtam.myrecyclerview.CardViewPresidentAdapter$CardViewViewHolder
+com/praktikumtam/myrecyclerview/PresidentData.java
+ com.praktikumtam.myrecyclerview.PresidentData
+com/praktikumtam/myrecyclerview/CustomOnItemClickListener.java
+ com.praktikumtam.myrecyclerview.CustomOnItemClickListener
+ com.praktikumtam.myrecyclerview.CustomOnItemClickListener$OnItemClickCallback
+com/praktikumtam/myrecyclerview/ListPresidentAdapter.java
+ com.praktikumtam.myrecyclerview.ListPresidentAdapter
+ com.praktikumtam.myrecyclerview.ListPresidentAdapter$CategoryViewHolder
+com/praktikumtam/myrecyclerview/MainActivity.java
+ com.praktikumtam.myrecyclerview.MainActivity
+ com.praktikumtam.myrecyclerview.MainActivity$1
+ com.praktikumtam.myrecyclerview.MainActivity$2

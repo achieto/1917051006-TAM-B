@@ -1,0 +1,31 @@
+com/example/myrecyclerview/BuildConfig.java
+ com.example.myrecyclerview.BuildConfig
+com/example/myrecyclerview/President.java
+ com.example.myrecyclerview.President
+com/example/myrecyclerview/ItemClickSupport.java
+ com.example.myrecyclerview.ItemClickSupport
+ com.example.myrecyclerview.ItemClickSupport$1
+ com.example.myrecyclerview.ItemClickSupport$2
+ com.example.myrecyclerview.ItemClickSupport$3
+ com.example.myrecyclerview.ItemClickSupport$OnItemClickListener
+ com.example.myrecyclerview.ItemClickSupport$OnItemLongClickListener
+com/example/myrecyclerview/GridPresidentAdapter.java
+ com.example.myrecyclerview.GridPresidentAdapter
+ com.example.myrecyclerview.GridPresidentAdapter$GridViewHolder
+com/example/myrecyclerview/PresidentData.java
+ com.example.myrecyclerview.PresidentData
+com/example/myrecyclerview/CustomOnItemClickListener.java
+ com.example.myrecyclerview.CustomOnItemClickListener
+ com.example.myrecyclerview.CustomOnItemClickListener$OnItemClickCallback
+com/example/myrecyclerview/CardViewPresidentAdapter.java
+ com.example.myrecyclerview.CardViewPresidentAdapter
+ com.example.myrecyclerview.CardViewPresidentAdapter$1
+ com.example.myrecyclerview.CardViewPresidentAdapter$2
+ com.example.myrecyclerview.CardViewPresidentAdapter$CardViewViewHolder
+com/example/myrecyclerview/MainActivity.java
+ com.example.myrecyclerview.MainActivity
+ com.example.myrecyclerview.MainActivity$1
+ com.example.myrecyclerview.MainActivity$2
+com/example/myrecyclerview/ListPresidentAdapter.java
+ com.example.myrecyclerview.ListPresidentAdapter
+ com.example.myrecyclerview.ListPresidentAdapter$CategoryViewHolder
